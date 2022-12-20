@@ -1,0 +1,6 @@
+:root{
+    --primaryColour: #34f534;
+}
+a:hover{
+    color: var(--primaryColour);
+}
